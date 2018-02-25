@@ -1,0 +1,22 @@
+{
+  "name": "small-neo-front",
+  "version": "0.0.1",
+  "description": "The small neo project front end website",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "neo",
+    "crypto"
+  ],
+  "author": "HackCU",
+  "license": "ISC",
+  "dependencies": {
+    "@cityofzion/neon-js": "^3.3.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0"
+  }
+}
