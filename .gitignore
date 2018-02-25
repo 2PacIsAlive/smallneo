@@ -1,0 +1,9 @@
+# The python shell that  can interact with the local neo enviroment
+neo-python
+
+# Mac specific commands
+.DS_Store
+
+# Node Modules dependencies
+front-end/node_modules/
+
